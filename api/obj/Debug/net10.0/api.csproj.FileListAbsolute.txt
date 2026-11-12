@@ -213,3 +213,5 @@ C:\Users\CT_USER\OneDrive - Capsitech IT Services Private Limited\Desktop\Learni
 C:\Users\CT_USER\OneDrive - Capsitech IT Services Private Limited\Desktop\Learning\Finshark\api\obj\Debug\net10.0\api.pdb
 C:\Users\CT_USER\OneDrive - Capsitech IT Services Private Limited\Desktop\Learning\Finshark\api\obj\Debug\net10.0\api.genruntimeconfig.cache
 C:\Users\CT_USER\OneDrive - Capsitech IT Services Private Limited\Desktop\Learning\Finshark\api\obj\Debug\net10.0\ref\api.dll
+C:\Users\CT_USER\OneDrive - Capsitech IT Services Private Limited\Desktop\Learning\Finshark\api\obj\Debug\net10.0\api.sourcelink.json
+C:\Users\CT_USER\OneDrive - Capsitech IT Services Private Limited\Desktop\Learning\Finshark\api\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerUI.dll
