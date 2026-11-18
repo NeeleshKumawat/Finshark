@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations.Schema;
 using System.Linq;
 using System.Threading.Tasks;
+using api.Dtos.Comment;
 
 namespace api.Dtos.Stock
 {
@@ -25,5 +26,6 @@ namespace api.Dtos.Stock
         public long MarketCap { get; set; }
 
         // Commments - do not get passed to the frontend, so we will not include it in the DTO
+        public List<CommentDto> Comments { get; set; } = new List<CommentDto>();
     }
 }
